@@ -14,7 +14,7 @@
   <h2 align="left">Codigo com bugs</h2>
   <img src="https://user-images.githubusercontent.com/17308374/185148066-400b5398-4f70-4401-aebd-e6f930cea00a.png">
   <h2 align="left">Projeto original</h2>
-  <img src="https://user-images.githubusercontent.com/17308374/169598395-ba797d4e-c20a-4eab-a735-ff7951436ee1.png">
+  <img src="https://user-images.githubusercontent.com/17308374/185148288-f76ee66a-5150-4d65-9aef-da32301eaa24.png">
   </div>
   
  <strong>Links para o projeto:</strong>
