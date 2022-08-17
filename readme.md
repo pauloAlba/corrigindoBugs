@@ -2,22 +2,18 @@
 <div align="center">
   <h1>Iniciante - Corrigindo bugs (01)</h1>
   
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/maykbrito/theme-launchbase/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/maykbrito/theme-launchbase" />
-  </a>
-</p>
+
   
   <div align="left">
-  Slide de imagens totalmente responsivo, foi desenvolvido utilizando CSS Flexbox e JavaScript. 
-    Todo o design ddo Slider foi feito utilizando o figma. As imagens foram retiradas do site Pexels. Você pode conferir todos os detalhes abaixo😀. 
+   Primeiro desafio de correção de bugs disponibilizado pela Rocketseat. Nesse desafio, foi disponibilizado um código com o projeto desenvolvido durante as aulas da Fase 01.
+  Mas, a surpresa vem aí...  👀  
+  O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.😀. 
 
 
   </div border="1">
-  <h2 align="left">Desktop</h2>
+  <h2 align="left">Codigo com bugs</h2>
   <img src="https://user-images.githubusercontent.com/17308374/169598340-beb9bc48-494b-471b-889d-11c8509700de.png">
-  <h2 align="left">Mobile</h2>
+  <h2 align="left">Projeto original</h2>
   <img src="https://user-images.githubusercontent.com/17308374/169598395-ba797d4e-c20a-4eab-a735-ff7951436ee1.png">
   </div>
   
